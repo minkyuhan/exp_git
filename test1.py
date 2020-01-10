@@ -8,3 +8,6 @@ def function_b():
 
 def make_home():
  pass
+
+def make_office():
+ pass
