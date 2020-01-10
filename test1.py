@@ -4,3 +4,7 @@ def function_a():
 
 def function_b():
   print("x")
+
+
+def make_home():
+ pass
